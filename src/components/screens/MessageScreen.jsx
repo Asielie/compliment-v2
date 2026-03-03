@@ -40,7 +40,7 @@ export default function MessageScreen({ onNext }) {
                     <div className="text-gray-700 leading-relaxed whitespace-pre-wrap max-h-67 overflow-auto">
                         <p>
                             I wanted to make something a little different for you, just to remind you how much you mean to me.
-                            Thank you for being my person. Thank you for the laughs, the patience, and for sharing your world with me.
+                            Thank you for being my person. Thank you for existing, thank you for blessing my ears with your soothing voice.
                             You are genuinely wonderful, and I hope this little surprise made you smile today.
                         </p>
                     </div>
